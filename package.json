@@ -1,0 +1,38 @@
+{
+  "name": "structure-organization-ideia-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laedanthehuman/structure-organization-ideia-nodejs.git"
+  },
+  "author": "manoel jose de freitas neto",
+  "dependencies": {
+    "babel-cli": "^6.5.1",
+    "babel-preset-es2015": "^6.5.0",
+    "body-parser": "^1.15.0",
+    "compression": "^1.5.1",
+    "consign": "^0.1.2",
+    "express": "^4.13.4",
+    "morgan": "^1.6.1",
+    "pug": "^0.1.0",
+    "sequelize": "^3.19.2",
+    "sqlite3": "^3.1.1"
+  },
+  "devDependencies": {
+    "apidoc": "^0.15.1",
+    "babel-register": "^6.5.2",
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "supertest": "^1.2.0"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/laedanthehuman/structure-organization-ideia-nodejs/issues"
+  },
+  "homepage": "https://github.com/laedanthehuman/structure-organization-ideia-nodejs#readme"
+}
